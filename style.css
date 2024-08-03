@@ -1,0 +1,28 @@
+table{
+    border-collapse: collapse;
+width: 1400px;
+}
+th,td{
+    border: 2px solid grey;
+    padding: 10px;
+}
+.oila{
+    color: white;
+    background-color: black;
+}
+.jam{
+    font-size: 20px;
+    text-align: center;
+}
+.abduqodir{
+    background-color: yellow;
+}
+.husan{
+    background-color: coral;
+}
+.bahtiyor{
+    background-color: aqua;
+}
+.yil{
+    text-align: center;
+}
